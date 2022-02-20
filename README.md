@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm PH Saurav</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [My Protfolio Site](https://github.com/phsaurav/Portfolio-site)
+- I’m currently working on [My Protfolio Site](https://github.com/phsaurav/Portfolio-site)
 
-- 🌱 I’m currently learning **Django**
+- I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://phsaurav.netlify.app/home](https://phsaurav.netlify.app/home)
+- All of my projects are available at [https://phsaurav.netlify.app/home](https://phsaurav.netlify.app/home)
 
-- 💬 Ask me about **ReactJS, TailwindCSS and Django**
+- Ask me about **ReactJS, TailwindCSS and Django**
 
-- 📫 How to reach me **phsaurav29@gmail.com**
+- How to reach me **phsaurav29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RQxxIjKRjagQHb2WFkHltoYA9bWTm3xB/view](https://drive.google.com/file/d/1RQxxIjKRjagQHb2WFkHltoYA9bWTm3xB/view)
+- Know about my experiences [Portfolio](https://drive.google.com/file/d/1RQxxIjKRjagQHb2WFkHltoYA9bWTm3xB/view)
 
 
 <h3 align="left">Languages and Tools:</h3>
