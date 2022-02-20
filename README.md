@@ -1,3 +1,13 @@
+<pre align="center">
+----------------------------------------
+<span>PH, Hello World!!</span>
+----------------------------------------
+      \   ^__^             
+       \  (oo)\_______     
+          (__)\ 0   0 )\  *
+              ||--0-w | \/ 
+              ||     ||    
+</pre>
 <h1 align="center">Hi 👋, I'm PH Saurav</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
