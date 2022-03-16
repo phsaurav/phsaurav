@@ -12,7 +12,7 @@
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 <p align="center"> I’m currently working on
-<a href="https://github.com/phsaurav/Portfolio-site">My Portfolio Site</a> </p>
+<a href="https://github.com/phsaurav/Portfolio-2.0">Portfolio 2.0</a> </p>
 <p align="center"> I'm currently learning <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">Django</a></p>
 <p align="center"> All my projects available at
 <a href="https://phsaurav.netlify.app/home">Portfolio</a> </p>
