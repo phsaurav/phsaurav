@@ -9,11 +9,11 @@
               ||     ||    
 </pre>
 <h1 align="center">Hi 👋, I'm PH Saurav</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
 <p align="center"> I’m currently working on
 <a href="https://github.com/phsaurav/Portfolio-2.0">Portfolio 2.0</a> </p>
-<p align="center"> I'm currently learning <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">Django REST Framework</a></p>
+<p align="center"> I'm currently learning <a href="[https://nextjs.org/blog/next-13](https://nextjs.org/blog/next-13)" target="_blank" rel="noreferrer">NextJS 13</a></p>
 <p align="center"> All my projects available at
 <a href="https://phsaurav.netlify.app/home">Portfolio</a> </p>
 <p align="center"> Reach me at <a href="phsaurav29@gmail.com">phsaurav29@gmail.com</a> </p>
