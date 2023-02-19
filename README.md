@@ -23,5 +23,5 @@
 <p float="left">
 <img width="1000" float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=phsaurav&theme=dark" alt="phsaurav" /></p>
 <h3 align="center">Last Year Activity in <a href="https://gitlab.com/phsaurav">GitLab</a></h3>
-![image](https://user-images.githubusercontent.com/30824536/219958025-4742dc6a-d89f-4fc4-a0ff-ab76e532c738.png)
+![Screenshot 2023-02-19 at 9 35 59 PM](https://user-images.githubusercontent.com/30824536/219958216-5533d624-1506-4cc9-ad4d-f58cf6f48871.jpg)
 
