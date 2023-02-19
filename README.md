@@ -11,8 +11,8 @@
 <h1 align="center">Hi 👋, I'm PH Saurav</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
-<p align="center"> I’m currently working on
-<a href="https://github.com/phsaurav/Portfolio-2.0">Portfolio 2.0</a> </p>
+<!-- <p align="center"> I’m currently working on
+<a href="https://github.com/phsaurav/Portfolio-2.0">Portfolio 2.0</a> </p> -->
 <p align="center"> My Resume: <a href="https://drive.google.com/file/d/17NL08XUiR_XfvCp3RjeLnZkrR1lAgN5m/view">Resume</a> </p>
 <p align="center"> I'm currently learning <a href="[https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM]" target="_blank" rel="noreferrer">NodeJS/ExpressJS Advance</a></p>
 <p align="center"> All my projects available at
