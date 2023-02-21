@@ -35,8 +35,23 @@
   />
 	  <img
     src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
-    alt="Dart"
-  />
+    alt="Dart" />
+ 	  <img
+    src="https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white"
+    alt="Cypress"
+   />
+	  <img
+    src="https://img.shields.io/badge/Testing%20Library-%23E33332.svg?style=for-the-badge&logo=Testing%20Library&logoColor=white"
+    alt="Testing Library"
+   />	  	  
+	 <img
+    src="https://img.shields.io/badge/Riverpod-%230081CB.svg?style=for-the-badge"
+    alt="Riverpod"
+   />
+	 	<img
+    src="https://img.shields.io/badge/Mockito-%2368BC71.svg?style=for-the-badge&logo=Mocha&logoColor=white"
+    alt="Mockito"
+   />
 </p>
 <h5 align="center">Front-End & Mobile Development Skills:</h5>
 
