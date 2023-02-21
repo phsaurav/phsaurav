@@ -31,5 +31,5 @@
 <h3 align="center">Last Year Activity in <a href="https://gitlab.com/phsaurav">GitLab</a></h3>
 <p float="left">
 <img width="1000" float="left" src="https://user-images.githubusercontent.com/30824536/219958216-5533d624-1506-4cc9-ad4d-f58cf6f48871.jpg" alt="phsaurav" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=phsaurav&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 
