@@ -114,7 +114,7 @@
     alt="DigitalOcean"
   />
   <img
-    src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
+    src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"
     alt="Netlify"
   />
   <img
