@@ -17,42 +17,6 @@
 <p align="center"> I'm currently learning <a href="[https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM]" target="_blank" rel="noreferrer">NextJS 13</a></p>
 <p align="center"> All my projects available at
 <a href="https://phsaurav.netlify.app/home">phsaurav.netlify.app</a> </p>
-<h3 align="center">Front-End & Mobile Development Skills:</h3>
-<p align="center">
-	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
-	<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-	<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-	<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-	<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="MUI">
-	  <img
-    src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="TypeScript"
-  />
-	  <img
-    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-    alt="JavaScript"
-  />
-	  <img
-    src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
-    alt="Dart" />
- 	  <img
-    src="https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white"
-    alt="Cypress"
-   />
-	  <img
-    src="https://img.shields.io/badge/Testing%20Library-%23E33332.svg?style=for-the-badge&logo=Testing%20Library&logoColor=white"
-    alt="Testing Library"
-   />	  	  
-	 <img
-    src="https://img.shields.io/badge/Riverpod-%230081CB.svg?style=for-the-badge"
-    alt="Riverpod"
-   />
-	 	<img
-    src="https://img.shields.io/badge/Mockito-%2368BC71.svg?style=for-the-badge&logo=Mocha&logoColor=white"
-    alt="Mockito"
-   />
-</p>
 
 <h3 align="center">Front-End & Mobile Development Skills:</h3>
 <p align="center">
@@ -61,7 +25,7 @@
 	<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
 	<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 	<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-	<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="MUI">
+	<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
 	  <img
     src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
     alt="React Router"
@@ -138,6 +102,60 @@
     alt="SQLite"
   />
 	</p>
+
+<h3 align="center">DevOps & Tools:</h3>
+<p align="center">
+	    <img
+    src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
+    alt="Firebase"
+  />
+  <img
+    src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"
+    alt="DigitalOcean"
+  />
+  <img
+    src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+    alt="Heroku"
+  />
+  <img
+    src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
+    alt="Netlify"
+  />
+  <img
+    src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Vercel"
+  />
+	  <img
+    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Docker"
+  />
+		  <img
+    src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+			  <img
+    src="https://img.shields.io/badge/Github%20Actions-%232088FF.svg?style=for-the-badge&logo=GitHub%20Actions&logoColor=white"
+    alt="Github Actions"
+  />
+	  <img
+    src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"
+    alt="Nginx"
+  />
+	  <img
+    src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
+    alt="Jira"
+  />
+  <img
+    src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"
+    alt="Adobe XD"
+  />
+  <img
+    src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+    alt="Figma"
+  />
+
+
+</p>
 
 
 <p float="left">
