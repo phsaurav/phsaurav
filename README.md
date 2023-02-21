@@ -19,9 +19,13 @@
 <a href="https://phsaurav.netlify.app/home">phsaurav.netlify.app</a> </p>
 <h5 align="center">Front-End & Mobile Development Skills:</h5>
 <p align="center">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"  height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="[https://redux.js.org/](https://redux.js.org/)" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/redux-original.svg](https://profilinator.rishav.dev/skills-assets/redux-original.svg)" alt="Redux" height="40" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/> </a>
+<a href="[https://mui.com/](https://mui.com/)" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/mui.png](https://profilinator.rishav.dev/skills-assets/mui.png)" alt="Material UI" height="40" /></a>
 </p>
 <h5 align="center">Front-End & Mobile Development Skills:</h5>
 
