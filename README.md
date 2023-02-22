@@ -3,7 +3,7 @@
 <span>Hi 👋, I'm PH Saurav</span>
 ----------------------------------------
 </pre>
-<!-- <h1 align="center">Hi 👋, I'm PH Saurav</h1> -->
+<h1 align="center">Hi 👋, I'm PH Saurav</h1> 
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
 <!-- <p align="center"> I’m currently working on
@@ -13,6 +13,8 @@
 <p align="center"> All my projects available at
 <a href="https://phsaurav.netlify.app/home">phsaurav.netlify.app</a> </p>
 
+<pre align="center">
+----------------------------------------
 <h3 align="center">Front-End & Mobile Development Skills:</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
@@ -53,6 +55,9 @@
     alt="Mockito"
    />
 </p>
+----------------------------------------
+</pre>
+
 
 <h3 align="center">Backend Development Skills:</h3>
 <p align="center">
