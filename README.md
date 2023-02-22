@@ -1,6 +1,7 @@
 <pre align="center">
 ----------------------------------------
-<span>Hi 👋, I'm PH Saurav</span>
+<!-- <span>Hi 👋, I'm PH Saurav</span> -->
+ <h1 align="center">Hi 👋, I'm PH Saurav</h1>
 ----------------------------------------
 <!--       \   ^__^             
        \  (oo)\_______     
