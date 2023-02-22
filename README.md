@@ -96,11 +96,12 @@
     src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
     alt="SQLite"
   />
-	</p>
-	  <img
+		  <img
     src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
     alt="GraphQL"
   />
+
+	</p>
 
 <h3 align="center">DevOps & Tools:</h3>
 <p align="center">
