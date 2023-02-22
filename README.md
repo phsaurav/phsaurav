@@ -13,10 +13,10 @@
 <p align="center"> All my projects available at
 <a href="https://phsaurav.netlify.app/home">phsaurav.netlify.app</a> </p>
 
-<pre >
+<pre align="center">
 ----------------------------------------
 <h3 align="center">Front-End & Mobile Development Skills:</h3>
-<p align="center">
+<p>
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
 	<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
