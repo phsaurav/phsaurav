@@ -13,7 +13,7 @@
 <p align="center"> All my projects available at
 <a href="https://phsaurav.netlify.app/home">phsaurav.netlify.app</a> </p>
 
-<pre align="center">
+<pre >
 ----------------------------------------
 <h3 align="center">Front-End & Mobile Development Skills:</h3>
 <p align="center">
