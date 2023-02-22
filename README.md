@@ -12,11 +12,8 @@
 <p align="center"> I'm currently learning <a href="[https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM]" target="_blank" rel="noreferrer">NextJS 13</a></p>
 <p align="center"> All my projects available at
 <a href="https://phsaurav.netlify.app/home">phsaurav.netlify.app</a> </p>
-
-<pre align="center">
-----------------------------------------
 <h3 align="center">Front-End & Mobile Development Skills:</h3>
-<p>
+<p >
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
 	<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
@@ -55,8 +52,6 @@
     alt="Mockito"
    />
 </p>
-----------------------------------------
-</pre>
 
 
 <h3 align="center">Backend Development Skills:</h3>
