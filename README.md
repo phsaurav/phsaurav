@@ -9,7 +9,7 @@
 <!-- <p align="center"> I’m currently working on
 <a href="https://github.com/phsaurav/Portfolio-2.0">Portfolio 2.0</a> </p> -->
 <p align="center"> My Resume: <a href="https://drive.google.com/file/d/17NL08XUiR_XfvCp3RjeLnZkrR1lAgN5m/view">Resume</a> </p>
-<p align="center"> I'm currently learning <a href="[https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM]" target="_blank" rel="noreferrer">NextJS 13</a></p>
+<p align="center"> I'm currently learning <a href="https://www.algoexpert.io/systems/product" target="_blank" rel="noreferrer">System Expert</a></p>
 <p align="center"> All my projects available at
 <a href="https://phsaurav.netlify.app/home">phsaurav.netlify.app</a> </p>
 <h3 align="center">Front-End & Mobile Development Skills:</h3>
