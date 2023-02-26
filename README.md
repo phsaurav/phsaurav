@@ -24,6 +24,10 @@
     src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
     alt="React Router"
   />
+	<img
+    src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white"
+    alt="Apollo GraphQL"
+  />
 	  <img
     src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
