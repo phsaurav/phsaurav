@@ -11,7 +11,7 @@
 <p align="center"> My Resume: <a href="https://drive.google.com/file/d/17NL08XUiR_XfvCp3RjeLnZkrR1lAgN5m/view">Resume</a> </p>
 <p align="center"> I'm currently learning <a href="https://www.algoexpert.io/systems/product" target="_blank" rel="noreferrer">System Expert</a></p>
 <p align="center"> All my projects available at
-<a href="https://phsaurav.netlify.app/home">phsaurav.netlify.app</a> </p>
+<a href="https://phsaurav.live">phsaurav.live</a> </p>
 <h3 align="center">Front-End & Mobile Development Skills:</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
