@@ -16,9 +16,7 @@
 
 
 <p float="left">
-<img width="1000" float="left" src="https://github-readme-streak-stats.herokuapp.com?user=phsaurav&theme=ayu-mirage&hide_border=true" /></p>
-<h3 align="center">Last Year Activity in <a href="https://gitlab.com/phsaurav">GitLab</a></h3>
+<img width="1000" float="left" src="https://streak-stats.demolab.com/?user=phsaurav&theme=ayu-mirage&hide_border=true" /></p>
 <p float="left">
-<img width="1000" float="left" src="https://user-images.githubusercontent.com/30824536/219958216-5533d624-1506-4cc9-ad4d-f58cf6f48871.jpg" alt="phsaurav" /></p>
 
 
