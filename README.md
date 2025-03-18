@@ -14,7 +14,7 @@ Software Engineer & Cloud Solutions Architect
 
 ```
 <a href="#macropower-title">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phsaurav&theme=nord&hide_border=true" alt="macropower" align="right" />
+  <img src="https://streak-stats.demolab.com/?user=phsaurav&theme=ayu-mirage&hide_border=true" alt="macropower" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
