@@ -36,8 +36,8 @@
   <tr>
     <td width="33%" style="padding: 10px; vertical-align: top; border:none !important;">
       <div style="display: flex; align-items: flex-start;">
-        <div style="width: 30%; margin-right: 5px;">
-          <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*JmFaQf1AX0vDAJC2p7kjRA.png" style="width: 100%; height: 150px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
+        <div style="width: 30%; margin-right: 5px;" align="center">
+          <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*JmFaQf1AX0vDAJC2p7kjRA.png" style=" height: 150px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
         </div>
         <div style="width: 70%; color: #FFFFFF; text-align: left; line-height: 1.2;">
           <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -49,8 +49,8 @@
     </td>
     <td width="33%" style="padding: 10px; vertical-align: top; border:none !important;">
       <div style="display: flex; align-items: flex-start;">
-        <div style="width: 30%; margin-right: 5px;">
-          <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*w5g7sc3WbY1nWrcZ.jpg" style="width: 100%; height: 150px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
+        <div style="width: 30%; margin-right: 5px;" align="center">
+          <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*w5g7sc3WbY1nWrcZ.jpg" style=" height: 150px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
         </div>
         <div style="width: 70%; color: #FFFFFF; text-align: left; line-height: 1.2;">
           <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -62,8 +62,8 @@
     </td>
     <td width="33%" style="padding: 10px; vertical-align: top; border:none !important;">
       <div style="display: flex; align-items: flex-start;">
-        <div style="width: 30%; margin-right: 5px;">
-          <img src="https://media.licdn.com/dms/image/v2/D5612AQHdaBew93G0YQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1728051786232?e=1747872000&v=beta&t=SPhx6CKqbdKeVb2uitLxfrB2SgXxey1NmhNP94HZiYQ" style="width: 100%; height: 150px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
+        <div style="width: 30%; margin-right: 5px;" align="center">
+          <img src="https://media.licdn.com/dms/image/v2/D5612AQHdaBew93G0YQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1728051786232?e=1747872000&v=beta&t=SPhx6CKqbdKeVb2uitLxfrB2SgXxey1NmhNP94HZiYQ" style=" height: 150px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
         </div>
         <div style="width: 70%; color: #FFFFFF; text-align: left; line-height: 1.2;">
           <div style="display: flex; justify-content: space-between; align-items: center;">
