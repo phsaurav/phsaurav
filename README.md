@@ -11,7 +11,7 @@
           <br>
           「 Focused on creating scalable, optimized and maintainable application solutions</b> 」
           <br>
-          「 Currently Reading: 📖 <a href="https://medium.com/@phsaurav">100 Go Mistakes and How to Avoid Them</a> 」
+          「 Currently Reading: 📖 <a href="https://www.goodreads.com/book/show/58571862-100-go-mistakes-and-how-to-avoid-them">100 Go Mistakes and How to Avoid Them</a> 」
           <br>
   </samp>
   
