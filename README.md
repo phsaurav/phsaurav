@@ -25,11 +25,31 @@
   <a href="https://dev.to/phsaurav">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
   </a>
+  <a href="mailto:phsaurav29@gmail.com">
+    <img src="https://img.shields.io/badge/-@phsaurav-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phsaurav29@gmail.com" height=25>
+  </a>
+</p>
+
+<div align="center">
+  <h2 style="text-align: center;">🚀 Currently Working With</h2>
+</div>
+
+<p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="38"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40"/>  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+          
+          
+          
 </p>
 
 
-<div style="text-align: center;">
-  <h2>Latest Blog Posts</h2>
+<div align="center">
+  <h2 style="text-align: center;">Latest Blog Posts</h2>
 </div>
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
