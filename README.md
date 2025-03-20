@@ -11,6 +11,7 @@
           <br>
           「 Focused on creating scalable, optimized and maintainable application solutions</b> 」
           <br>
+          「 Currently Reading: 📖 <a href="https://medium.com/@phsaurav">100 Go Mistakes and How to Avoid Them</a> 」
           <br>
   </samp>
   
@@ -25,8 +26,8 @@
   <a href="https://dev.to/phsaurav">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
   </a>
-  <a href="mailto:phsaurav29@gmail.com">
-    <img src="https://img.shields.io/badge/-@phsaurav-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phsaurav29@gmail.com" height=25>
+  <a href="https://www.goodreads.com/phsaurav">
+    <img src="https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=fff" height=25>
   </a>
 </p>
 
@@ -42,9 +43,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40"/>  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-          
-          
-          
+
 </p>
 
 
@@ -98,7 +97,7 @@
 </table>
 
 
-
+<br>
 
 
 <p align="center">
