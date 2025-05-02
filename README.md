@@ -7,7 +7,7 @@
 </h3>
 <p align="center">
       <samp>
-          「 A Software Engineer & Cloud Solutions Architect 」 
+          「 A Software Engineer & Cloud Solutions Architect 」
           <br>
           「 Focused on creating scalable, optimized and maintainable application solutions</b> 」
           <br>
