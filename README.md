@@ -13,7 +13,7 @@
           <br>
           「 Currently Reading: 📖 <a href="https://www.goodreads.com/book/show/58571862-100-go-mistakes-and-how-to-avoid-them">100 Go Mistakes and How to Avoid Them</a> 」
           <br>
-  </samp>
+  </samp> 
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/phsaurav">
