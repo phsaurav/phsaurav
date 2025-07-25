@@ -80,7 +80,7 @@
     <td width="33%" style="padding: 10px; vertical-align: top; border:none !important;">
       <div style="display: flex; align-items: flex-start;">
         <div style="width: 30%; margin-right: 5px;" align="center">
-          <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*GxsG8ElkiCsopTy2Grz3ig.png" style=" height: 140px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
+          <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*w5g7sc3WbY1nWrcZ.jpg" style=" height: 130px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
         </div>
         <div style="width: 70%; color: #FFFFFF; text-align: left; line-height: 1.2;">
           <div style="display: flex; justify-content: space-between; align-items: center;">
