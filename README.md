@@ -11,7 +11,7 @@
           <br>
           「 Focused on creating scalable, optimized and maintainable application solutions</b> 」
           <br>
-          「 Currently Reading: 📖 <a href="https://www.goodreads.com/book/show/26083308-the-devops-handbook">The DevOps Handbook</a> 」
+          「 Currently Reading: 📖 <a href="https://www.goodreads.com/book/show/26083308-the-devops-handbook">The DevOps Handbook</a>  」
           <br>
   </samp> 
 </p>
