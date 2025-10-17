@@ -1,7 +1,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!👋, I am
-                <b>PH Saurav</b>
+                <b>Parvez Hossain Saurav</b>
         </samp>
 
 </h3>
