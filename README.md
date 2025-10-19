@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
   </a>
   <a href="https://www.goodreads.com/phsaurav">
-    <img src="https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=fff" height=25>
+    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=fff" height=25>
   </a>
 </p>
 
