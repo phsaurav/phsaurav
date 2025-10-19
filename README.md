@@ -22,9 +22,6 @@
   <a href="https://medium.com/@phsaurav">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
   </a>
-  <a href="https://dev.to/phsaurav">
-    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
-  </a>
   <a href="https://www.goodreads.com/phsaurav">
     <img src="https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=fff" height=25>
   </a>
