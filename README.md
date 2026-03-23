@@ -54,12 +54,12 @@
     <td width="33%" style="padding: 10px; vertical-align: top; border:none !important;">
       <div style="display: flex; align-items: flex-start;">
         <div style="width: 30%; margin-right: 5px;" align="center">
-          <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*JmFaQf1AX0vDAJC2p7kjRA.png" style=" height: 130px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
+          <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wwYILBkaUxjqi4w0sGJa1w.png" style=" height: 135px; border: 2px solid #1E90FF; background-color: #0D1117; object-fit: cover; border-radius: 8px !important;" />
         </div>
         <div style="width: 70%; color: #FFFFFF; text-align: left; line-height: 1.2;">
           <div style="display: flex; justify-content: space-between; align-items: center;">
-            <h4 style="margin-top: 0; margin-bottom: 0; flex: 1;">Breaking Free from AI Subscriptions: Cost-Effective All-in-One Solution with OpenRouter</h4>
-            <a href="https://medium.com/@phsaurav/breaking-free-from-ai-subscriptions-cost-effective-all-in-one-solution-with-openrouter-a1f596ce1227" target="_blank" rel="noreferrer nofollow" style="color: #1E90FF; font-size: 14px; text-decoration: none; white-space: nowrap; margin-left: 8px;">Read →</a>
+            <h4 style="margin-top: 0; margin-bottom: 0; flex: 1;">A Practical Guide to Agentic Engineering: Steering with Tools, Commands, Skills, Agents & Subagents</h4>
+            <a href="https://medium.com/@phsaurav/a-practical-guide-to-agentic-engineering-steering-with-tools-commands-skills-agents-subagents-efb75c4afe31" target="_blank" rel="noreferrer nofollow" style="color: #1E90FF; font-size: 14px; text-decoration: none; white-space: nowrap; margin-left: 8px;">Read →</a>
           </div>
         </div>
       </div>
