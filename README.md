@@ -28,20 +28,11 @@
 </p>
 
 <div align="center">
-  <h2 style="text-align: center;">🚀 Currently Working With</h2>
+  <h2>🚀 Currently Working With</h2>
 </div>
 
 <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40"/>  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" width="40" height="40"/>  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="45" height="45"/>
-
+  <img src="./assets/stack.svg" alt="Tech stack: AWS, Go, Python, Terraform, TypeScript, Pulumi, Kubernetes, ArgoCD, Ansible" />
 </p>
 
 
