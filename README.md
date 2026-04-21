@@ -35,6 +35,18 @@
   <img src="./assets/stack.svg" alt="Tech stack: AWS, Go, Python, Terraform, TypeScript, Pulumi, Kubernetes, ArgoCD, Ansible" />
 </p>
 
+<!-- <p align="center">
+  <a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="40" /></a>
+  <a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" /></a>
+  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="40" /></a>
+  <a href="https://www.terraform.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /></a>
+  <a href="https://www.pulumi.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" width="40" height="40" /></a>
+  <a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" /></a>
+  <a href="https://argo-cd.readthedocs.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="40" height="40" /></a>
+  <a href="https://www.ansible.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" /></a>
+</p> -->
+
 
 <div align="center">
   <h2 style="text-align: center;">Latest Blog Posts</h2>
